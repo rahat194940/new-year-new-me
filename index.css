@@ -56,3 +56,99 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.info-container {
+    display: flex;
+    align-items: center;
+    padding: 170px 322px 131px 250px;
+}
+
+.mew {
+    color: #151414 ;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.mow {
+    color: #444343 ;
+    font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+margin-bottom: 16px;
+}
+
+.failure {
+    display: block;
+}
+
+.failures {
+    color: #444343;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+margin-bottom: 8px;
+}
+
+i {
+    width: 24px;
+    height: 24px;
+    color: #16D887; 
+    margin-right: 5px;
+}
+
+.right-body {
+    display: block;
+    margin-top: 160px;
+    margin-left: 105.22px;
+}
+
+.title-three {
+    color: #151414 ;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.pictures {
+    display: flex;
+    padding: 49.7px 230px 130px 230px;
+    justify-content: space-between;
+}
+
+.pic-one {
+    text-align: center;
+}
+
+.pi {
+    color: #151414 ;
+text-align: center;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 24px;
+}
+
+.pu {
+    color: #737272;
+text-align: center;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 16px;
+}
+
+.ku {
+    width: 92.958px;
+height: 92.958px;
+margin-top: 39.7px;
+}
+
